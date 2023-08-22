@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del módulo 2 del prep course de Henry.
+Christian Ariel Munich
+
+Este proyecto es una prueba de cómo clonar un repositorio y trabajar desde mi escritorio local.
